@@ -37,6 +37,7 @@ In alphabetical order:
 * [One.com](https://www.one.com/)
 * [Pagely](https://pagely.com/)
 * [Pantheon](https://pantheon.io)
+* [PlotHost](https://plothost.com)
 * [Pressjitsu](https://pressjitsu.com)
 * [RoseHosting](https://www.rosehosting.com)
 * [Savvii](https://www.savvii.com/)
